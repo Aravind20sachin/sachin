@@ -1,0 +1,5 @@
+z=input("enter your name:")
+print(z)
+y=int(input("enter your age:"))
+print(y)
+print("your name is ",z,"your age is",y)
